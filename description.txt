@@ -1,0 +1,6 @@
+1. Train data set contains 700 rows and 25 columns
+2. Test data set contains 300 rows and 24 columns
+3. Mising value treatement was done on both sets
+4. EDA was performed on both data sets
+5. Both data sets are standardised 
+6. XGBRegressor was used to develope the model
